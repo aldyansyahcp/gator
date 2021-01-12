@@ -1,3 +1,3 @@
 # gator
 Gabut kalkulator
-sebvvah kegabutan yg tydack hqq
+Kalau ada yg ribet kenapa harus yg gampang :v
