@@ -5,7 +5,7 @@ created by aldyansyahcp gw masih noob -_-
 uploaded  Github 14 Dec 2020
 edited 10 Jan 2021
 first learning python
-bismillah muga-muga bisa jadi master piton :v
+bismillah muga-muga bisa python
 ---------------------------------------------
 '''
 #definisi rumus
