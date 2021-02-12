@@ -1,11 +1,10 @@
 import sys,os,time
 '''
 ---------------------------------------------
-created by aldyansyahcp gw masih noob -_-
-uploaded  Github 14 Dec 2020
-edited 10 Jan 2021
-first learning python
-bismillah muga-muga bisa python
+アップロード 14 十二月 2020
+かわった 10 一月 2021
+これがぼくのはじめてがパイトンプログラムのべんきょうします。
+よろしく
 ---------------------------------------------
 '''
 #definisi rumus
