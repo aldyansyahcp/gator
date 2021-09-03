@@ -67,8 +67,8 @@ def mulai():
   #perulangan dan input
   else:
       print(kuning+'[!]'+hijau+'Masukan Angka Pertama dan Kedua'+kuning+'[!]')
-      a=float(int(input(merah+'[✓]'+hijau+'No1: ')))
-      b=float(int(input(merah+'[✓]'+hijau+'No2: ')))
+      a=float(input(merah+'[✓]'+hijau+'No1: '))
+      b=float(input(merah+'[✓]'+hijau+'No2: '))
       if pilih =='1':
         print(kuning,'  [∆]'+merah+'Hasil: ',tambah(a,b))
         #memanggil definisi banner
